@@ -79,3 +79,25 @@ php artisan serve
 You can preview the application with this url: localhost:8000 (default).
 
 # Screenshots
+
+![1](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/a21c7c4f-0990-406c-b137-c1231c9829af)
+![2](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/32a99ad8-d92e-47fc-82b3-896eb8dfb75e)
+![3](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/fe1aac0e-a02b-4ffa-a8a0-e408523dd34f)
+![4](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/d332f9c5-a6f2-492d-9866-0bc53c553f9e)
+![5](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/b894f041-3413-4dc5-9aa3-5c4df810237d)
+![6](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/940d9729-eeda-4251-9fa0-02bc0576a57f)
+![7](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/842253b8-1628-4783-a9f2-396ebdc96561)
+![8](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/87a8f5dd-0f30-4251-8403-f41c4a4bd782)
+![9](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/3cc44d81-633d-464d-ab57-3f525e068508)
+![10](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/e498c53c-0c14-4128-b910-016392a8535b)
+![11](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/727aa76e-e882-41a8-a600-9f557d7f9112)
+![12](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/18acda5f-1239-4114-a8ce-46070667870c)
+![13](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/7b278ee9-f1c8-41dc-aad9-621d3ce232da)
+![14](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/99b2514f-abe5-4795-8a33-e7e767ca27b2)
+![15](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/1cff21c7-3e83-464f-b961-ec35a101228a)
+![16](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/da749cd1-6cb3-41bf-96d4-a4b68ab0e952)
+![17](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/14791bc7-5e1a-43db-bb3e-b61b14317a9e)
+![18](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/e19d7d3b-d488-4da2-8434-2ad6400f93b0)
+![19](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/bd0eae75-b020-4b86-8f8f-dcce2ec5cdb7)
+![20](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/4d7d4238-cd65-4e70-ba19-9bab07394cae)
+![21](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/614948e9-aa6d-4282-9887-3a738050db09)
