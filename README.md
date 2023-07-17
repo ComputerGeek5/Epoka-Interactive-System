@@ -1,4 +1,7 @@
 # School Management System
+
+![3](https://github.com/ComputerGeek5/Epoka-Interactive-System/assets/78569367/fe1aac0e-a02b-4ffa-a8a0-e408523dd34f)
+
 This is the project for my CEN 342 UI Design course at Epoka University. It is a school management system that has 3 main roles: Student, Teacher and Admin.
 It is developed with PHP, Laravel, Bootstrap and MySQL.
 
